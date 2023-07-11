@@ -8,4 +8,4 @@ jobs:
     
     steps:
     - name: run script
-      run: ./script.sh
+      run: ../script.sh
