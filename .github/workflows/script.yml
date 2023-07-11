@@ -1,3 +1,4 @@
+name: RunScript
 on:
   workflow_dispatch:
 
