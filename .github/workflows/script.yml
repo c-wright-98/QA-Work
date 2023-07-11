@@ -10,4 +10,4 @@ jobs:
     
     steps:
       - name: run script
-        run: bash QA-Work/script.sh
+        run: bash './script.sh'
