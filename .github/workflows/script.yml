@@ -1,0 +1,5 @@
+on:
+  workflow_dispatch:
+jobs:
+    - name: run scipt
+      run: bash ./script.sh
