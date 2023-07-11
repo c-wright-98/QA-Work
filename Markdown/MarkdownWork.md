@@ -1,4 +1,4 @@
-# <span style="color: rainbow;">Hellooooo</span>
+# <span style="color: #7393B3;">Hellooooo</span>
 
 ### This is shrimpy
 
