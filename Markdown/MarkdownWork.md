@@ -1,3 +1,12 @@
-# Hellooooo
+# <span style="color: rainbow;">Hellooooo</span>
 
-## Here is a shrimp cat
+### This is shrimpy
+
+<img src="Shrimpy.jpg"
+         alt="Shrimpy">
+
+He cool!
+
+---
+
+Shrimpy believes in you! :raised_hands:
